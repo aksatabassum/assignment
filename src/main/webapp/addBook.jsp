@@ -75,7 +75,7 @@
                     <option value="Rini S R">Rini S R</option>
                     <option value="Shakespeare">Shakespeare</option>
                     <option value="Einsteen">Einsteen</option>
-                    <option value="Newton">Newton oasss</option>
+                    <option value="Newton">Newton - Aqsa</option>
                     <option value="Prof. Mohammed Faisal">Prof. Mohammed Faisal</option>
                    </select>
                   </div>
