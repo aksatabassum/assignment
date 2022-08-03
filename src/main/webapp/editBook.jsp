@@ -72,11 +72,11 @@
                   </div>
                   <div class="col-9 col-md-8 text-center">
                    <select class="form-select m-0 w-100 rounded border-1" name="bookAuthor" id="author" aria-label="Default select example">
-                     <option value="Andy Hunt">Andy Hunt</option>
-                     <option value="Shekspier">Shekspier</option>
-                     <option value="Einsteen">Einsteen</option>
-                     <option value="Dr.Amit Kumar">Dr.Amit Kumar</option>
-                     <option value="Prof. Abhinav">Prof. Abhinav</option>
+                    <option value="Rini S R">Rini S R</option>
+                    <option value="Shakespeare">Shakespeare</option>
+                    <option value="Einsteen">Einsteen</option>
+                    <option value="Newton">Newton - Aqsa</option>
+                    <option value="Prof. Mohammed Faisal">Prof. Mohammed Faisal</option>
                      
                    </select>
                   </div>
